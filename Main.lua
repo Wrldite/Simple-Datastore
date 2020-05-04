@@ -2,8 +2,6 @@ local Players = game:GetService("Players");
 local DataStoreService = game:GetService("DataStoreService");
 local RunService = game:GetService("RunService");
 
-local Internal = require(script.DataStore2);
-
 local DATANAME = "379810371819";
 local Cache = {};
 
